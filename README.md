@@ -1,4 +1,4 @@
-# Data Science and Machine Learning
+# Machine Learning 
 
 ## About
 
